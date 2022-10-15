@@ -15,6 +15,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This message coms from main() method");
         System.out.println("This jar file is build based on - co-operating with JUnit");
+        System.out.println("More over, this message coms form a US-BUILT'S JAR FILE");
         tryTDDFirst();
     }
 
