@@ -29,7 +29,7 @@ public class MathUtil {
         if (n == 0 || n == 1)
             return 1;
     
-        long product = 10; // initiate = 1
+        long product = 1; // initiate = 1
                           // biến acc - accumulation - tích lũy/góp dần/nhân dồn/con heo đất  
                           
         for (int i = 2; i <= n; i++)
